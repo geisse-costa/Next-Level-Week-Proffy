@@ -1,0 +1,77 @@
+#page-study #container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.page-header {
+    background-color: var(--color-primary);
+
+    display: flex;
+    flex-direction: column;
+}
+
+.page-header .top-bar-container {
+    width: 90%;
+    margin: 0 auto; /* deixa o espaço equilibrado, sem espaço superior e o mesmo espaço (automático) dos lados (objeto no centro) */
+
+    display: flex;
+    align-items: center; /* o align-itens inicial do flex é o start (em cima/início), depois o center e no final o end */
+    justify-content: space-between; /* coloca espaço entre os objetos */
+
+    padding: 1.6rem 0;
+}
+
+.page-header .top-bar-container a {
+    height: 3.2rem;
+    transition: opacity 0.2s; /* para quando fizer alguma ação que mexa na opacidade */
+}
+.page-header .top-bar-container a:hover {
+    opacity: 0.6; /* a opacidade vai de 0 a 1 */
+}
+
+.page-header .top-bar-container img{
+    height: 1.6rem;
+}
+
+.page-header .header-content {
+    width: 90%;
+    margin: 3.2rem auto;
+}
+
+.page-header .header-content strong {
+    font: 700 3.6rem Archivo;
+    line-height: 4.2rem;
+    color: var(--color-title-in-primary);
+}
+
+/* personalizar o formulário */
+#search-teachers {
+    margin-top: 3.2rem;
+}
+#search-teachers label {
+    color: var(--color-title-in-primary); /* o último elemento do css ou quando só têm um, não é obrigatório colocar ; */
+}
+#search-teachers .select-block {
+    margin-bottom: 1.4rem;
+}
+
+#search-teachers button {
+    width: 100%;
+    height: 5.6rem;
+    background: var(--color-secondary);
+    color: var(--color-button-text);
+    border: 0; /*para tirar a borda, porque por padrão ela é colocada */
+    border-radius: 0.8rem;
+    cursor: pointer; /* o cursor se transforma em uma mãozinha quando passa por cima */
+    font: 700 1.6rem Archivo;
+    display: flex; /* para garantir que vai estar alinhado ao meio */
+    align-items: center;
+    justify-content: center;
+    /*text-decoration: none;  nesse caso seria por garantia, mas ele não precisa, não vem underline */
+    transition: background 0.2s; /*para fazer uma transição de cor de fundo */
+    margin-top: 3.2rem;
+}
+#search-teachers button:hover {
+    background-color: var(--color-secondary-dark);
+}
+
