@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="/images/capa-readme.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="/images/capa-readme.png" width="600" height="400"/>
 </h1>
 <h1 align="center">Next Level Week #02</h1>
 <p align="center">Projeto <strong>Proffy</strong> desenvolvido durante a Next Level Week da <a href="https://rocketseat.com.br">Rocketseat</a> 🚀👩🏽‍🚀</p>
