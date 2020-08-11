@@ -21,6 +21,8 @@ Durante a primeira semana de agosto de 2020, a Rocketseat disponibilizou conteú
 
 O Proffy é uma plataforma de estudos online, onde o usuário pode encontrar professores de diferentes matérias.
 
+## 📙 Minhas anotações (em desenvolvimento):
+<a href="https://www.notion.so/NLW-2-Discovery-274ab56dabe5421997fd30d8fd2df009" alt="Link anotações">Notion NLW #2 - Discovery</a>
 
 ## 📇 O que foi feito:
 
@@ -68,9 +70,6 @@ Visualize o layout do projeto web através [deste link](https://www.figma.com/fi
 
 ---
 
-
-## 📙 Minhas anotações (em desenvolvimento):
-<a href="https://www.notion.so/NLW-2-Discovery-274ab56dabe5421997fd30d8fd2df009" alt="Link anotações">Notion NLW #2 - Discovery</a>
 
 <!--
 ### Backend
