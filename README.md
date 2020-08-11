@@ -68,9 +68,11 @@ Visualize o layout do projeto web através [deste link](https://www.figma.com/fi
 
 ---
 
-<!--
-## 🧭 Como rodar o projeto
 
+## 📙 Minhas anotações (em desenvolvimento):
+<a href="https://www.notion.so/NLW-2-Discovery-274ab56dabe5421997fd30d8fd2df009" alt="Link anotações">Notion NLW #2 - Discovery</a>
+
+<!--
 ### Backend
 
 Em breve.
